@@ -31,21 +31,21 @@ Approche multi-résolution à 3 niveaux
 
 ## Segmentation des tumeurs
 
-Méthode de seuillage d'Otsu pour déterminer automatiquement le seuil
+Méthode de seuillage d'Otsu pour déterminer automatiquement le seuil  
 Nettoyage post-segmentation avec un filtre médian
 
 ## Visualisation des changements
 
-Calcul de la différence entre les tumeurs segmentées
-Utilisation de VTK pour la visualisation 3D des changements
+Calcul de la différence entre les tumeurs segmentées  
+Utilisation de VTK pour la visualisation 3D des changements  
 Rendu volumique avec une fonction de transfert de couleur et d'opacité personnalisée
 
 ## Limitations et améliorations possibles
 
-Le principal point necessitant une amelioration est l'alignement des deux images pour n'avoir comme difference que la tumeur
-La segmentation actuelle est basique et pourrait être améliorée avec des méthodes plus avancées
-L'interface utilisateur pourrait être développée pour permettre une interaction plus poussée
-Des métriques quantitatives supplémentaires pourraient être ajoutées pour l'analyse des changements
+Le principal point necessitant une amelioration est l'alignement des deux images pour n'avoir comme difference que la tumeur  
+La segmentation actuelle est basique et pourrait être améliorée avec des méthodes plus avancées  
+L'interface utilisateur pourrait être développée pour permettre une interaction plus poussée  
+Des métriques quantitatives supplémentaires pourraient être ajoutées pour l'analyse des changements  
 
 ## Résultats
 
