@@ -2,7 +2,8 @@
 
 ## Objectif
 Ce projet vise à analyser l'évolution d'une tumeur à partir de deux scans IRM d'un même patient réalisés à des dates différentes. Il utilise les bibliothèques ITK (Insight Segmentation and Registration Toolkit) et VTK (Visualization Toolkit) pour effectuer le recalage des volumes, la segmentation des tumeurs et la visualisation des changements.
-Fonctionnalités
+
+## Fonctionnalités
 
 1. **Chargement de deux scans IRM au format NRRD**
 2. **Recalage du deuxième scan sur le premier**
