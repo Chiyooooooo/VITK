@@ -23,11 +23,11 @@ Ce dernier permet de visualiser l'évolution de la tumeur entre les deux etats
 
 ## Recalage d'images
 
-Utilisation de itk.ImageRegistrationMethodv4
-Transformation : VersorRigid3D
-Métrique : Mattes Mutual Information
-Optimiseur : Regular Step Gradient Descent
-Approche multi-résolution à 3 niveaux
+Utilisation de itk.ImageRegistrationMethodv4  
+Transformation : VersorRigid3D  
+Métrique : Mattes Mutual Information  
+Optimiseur : Regular Step Gradient Descent  
+Approche multi-résolution à 3 niveaux  
 
 ## Segmentation des tumeurs
 
@@ -53,5 +53,5 @@ Les résultats montrent les différences de volume et d'intensité des voxels en
 
 ## Auteurs
 
-Yacine Boureghda
-Yanis Belami
+Yacine Boureghda  
+Yanis Belami  
